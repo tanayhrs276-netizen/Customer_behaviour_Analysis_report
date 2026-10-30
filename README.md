@@ -75,10 +75,7 @@ Developed an interactive dashboard to visualize customer shopping behavior and p
 
 The Power BI dashboard provides a visual overview of customer shopping behavior, revenue distribution, purchasing patterns, and customer segments.
 
-**Dashboard Preview:**
 
-<!-- Add your Power BI dashboard screenshot here -->
-![Customer Shopping Behavior Dashboard](dashboard/dashboard.png)
 
 ## Key Business Recommendations
 
@@ -107,7 +104,7 @@ Customer-Shopping-Behavior-Analysis/
 1. Clone this repository:
 
    ```bash
-   git clone <your-repository-url>
+   https://github.com/tanayhrs276-netizen/Customer_behaviour_Analysis_report.git
    ```
 
 2. Navigate to the project directory:
